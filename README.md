@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **php, sql & html**
 
-- 📫 How to reach me **kev9euf3rois@gmail.com**
+- 📫 Reach out to me by contacting **kev9euf3rois@gmail.com**
 
 - ⚡ Fun fact **Walmart has a lower acceptance rate than Harvard.**
 
