@@ -7,7 +7,7 @@
 
 - 👨‍🎓 I'm studying at the [IU International University of Applied Sciences](https://www.iu.de/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/kev9euf3rois](https://github.com/kev9euf3rois?tab=repositories)
+- 👨‍💻 All of my projects are available at [my repositories](https://github.com/kev9euf3rois?tab=repositories)
 
 - 💬 Ask me about **php, sql & html**
 
