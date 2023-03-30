@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/kev9euf3rois?tab=repositories)
 
-- 💬 Ask me about **php, sql & html**
+- 💬 Ask me about **PHP, SQL, HTML, JavaScript & Markdown**
 
 - 📫 Reach out to me by contacting **kev9euf3rois@gmail.com**
 
-- ⚡ Fun fact **Walmart has a lower acceptance rate than Harvard.**
+- ⚡ Fun fact: **Did you know that Walmart has a lower acceptance rate than Harvard? Now you do.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
