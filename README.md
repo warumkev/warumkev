@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kev</h1>
 <h3 align="center">- a developement students mainboard -</h3>
 
-- 🔭 I’m currently working on [my mental state](https://www.youtube.com/watch?v=F-e6B9YrQmM)
+- 🔭 I’m currently working on [my mental state]([https://www.youtube.com/watch?v=F-e6B9YrQmM](https://www.youtube.com/watch?v=vbRljz39YTw))
 
 - 🌱 I’m currently learning **python, javascript & c#**
 
