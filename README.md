@@ -2,7 +2,7 @@ Hey, my name is Kevin Tamme. I am the founder of DigitalVisage and a passionate 
 
 Some time ago I was a regular computer science student in Frankfurt am Main, now I help companies, as well as individuals to get a firm foothold in the digital world. A professional digital presence will make you more visible and successful in the future. So let's create something special for you together!
 
-I am currently working on our Website for [DigitalVisage](https://digitalvisage.de/). You can ask me anything about PHP, SQL, JavaScript, HTML & CSS.
+You can ask me anything about PHP, SQL, JavaScript, HTML & CSS.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
