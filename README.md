@@ -22,7 +22,7 @@ My process is deeply rooted in user research and empathy, ensuring that every de
 - I’m currently working on **my bachelor thesis**.
 - I’m currently learning **SwiftUI**.
 - Ask me about **Design Systems, Accessibility & User Psychology**.
-- How to reach me: **me@kevintamme.com**
+- How to reach me: **kevintamme@icloud.com**
 
 ---
 
